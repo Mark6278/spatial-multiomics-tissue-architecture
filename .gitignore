@@ -1,0 +1,18 @@
+# Raw spatial datasets (heavy .h5 and image archives)
+data/
+
+# Execution logs & local virtual environments
+logs/
+spatial_omics_env/
+venv/
+.venv/
+
+# Python & IDE cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

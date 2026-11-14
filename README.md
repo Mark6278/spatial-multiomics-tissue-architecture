@@ -44,7 +44,7 @@ spatial-multiomics-tissue-architecture/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com
+git clone https://github.com/Mark6278/spatial-multiomics-tissue-architecture.git
 cd spatial-multiomics-tissue-architecture
 ```
 

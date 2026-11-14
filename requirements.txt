@@ -1,0 +1,11 @@
+scanpy
+squidpy
+mudata
+anndata
+scikit-image
+scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
+leidenalg

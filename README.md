@@ -22,7 +22,7 @@ Validated on the public **10x Genomics Human Melanoma (IF Stained FFPE)** datase
 
 | Spatial Molecular Domains | Target Tumor & Immune Markers |
 | :---: | :---: |
-| ![Spatial Domains](figures/human_malonema/01_spatial_domains.png) | ![Markers](figures/human_malonema/02_target_markers.png) |
+| ![Spatial Domains](figures/human_brain/01_spatial_domains.png) | ![Markers](figures/human_malonema/02_target_markers.png) |
 
 | Spatial Neighborhood Enrichment | Top Spatially Variable Genes |
 | :---: | :---: |
